@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
+global.owner = ['+447441450082']
+global.premium = ['+447441450082']
+global.ownernomer = '+447441450082'
+global.ownername = '🔥ITACHI🔥'
+global.botname = 'L-LAWLIETBOT'
 global.footer = '©NexusNwInc.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
@@ -36,13 +36,13 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'Wait A minute...',
+    admin: '🤞🏻آلآمـر خ ـآصـ بــآلمـشـرف فقطـ🤞🏻',
+    botAdmin: '☘️آرفع آلبــوت آدمـن يسـطـآ☘️',
+    owner: '🔱آلمـيزة للح ـآكمـ آلآعظـمـ فقطـ🔱',
+    group: '🗿آلآمـر للكروبــآت فقطـ🗿',
+    private: '🌹خ ـذ آلآمـر مـعك للخ ـآصـ يآورع🌹',
+    bot: '🙂آلآمـر خ ـآصـ بــآلبــوت يسـطـآ🙂',
+    wait: '✍🏻آنتظـر لح ـظـة مـن فضـلك... ✍🏻',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
