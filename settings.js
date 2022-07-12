@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['+447441450082']
-global.premium = ['+447441450082']
-global.ownernomer = '+447441450082'
-global.ownername = '🔥ITACHI🔥'
-global.botname = 'L-LAWLIETBOT'
+global.owner = ['+20 121 289 3562']
+global.premium = ['+20 121 289 3562']
+global.ownernomer = '+20 121 289 3562'
+global.ownername = '🔥TANJIRO🔥'
+global.botname = 'TANJIROBOT'
 global.footer = '©NexusNwInc.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
